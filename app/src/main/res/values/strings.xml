@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application notifi</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9495047723701573~8330203315</string>
+
+</resources>
